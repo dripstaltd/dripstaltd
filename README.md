@@ -70,3 +70,9 @@ A Hair scanner and color advice for at-home or in salon hair dyeing.
 ![Unix](https://img.shields.io/badge/Unix-000000?style=flat&logo=unix&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+<a href="https://www.youtube.com/watch?v=Ds8RtbRE2Vc">
+  <img src="https://img.youtube.com/vi/Ds8RtbRE2Vc/maxresdefault.jpg" alt="Watch 55debate" width="600">
+</a>
+
+
+
